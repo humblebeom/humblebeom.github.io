@@ -1,7 +1,9 @@
 ---
 layout: single
-title:  "댓글기능(Disqus), Google Ananlytics 추가"
+title: "댓글기능(Disqus), Google Ananlytics 추가"
 typora-root-url: ../
+categories: blog
+tag: jekyll
 ---
 
 # 1. 댓글기능 추가하기
@@ -13,17 +15,17 @@ typora-root-url: ../
 
 - 구글 계정으로 가입 및 로그인
 
-## 1.2.  DISQUS 세팅
+## 1.2. DISQUS 세팅
 
-- settings > Getting Started >  Add Disqus to Site
+- settings > Getting Started > Add Disqus to Site
 
 <img src="/images/2023-04-26-add-disqus-and-google-analytics/create_a_new_site.png" alt="create_a_new_site" style="zoom: 50%;" />
 
 - 과금모델 선택화면에서 하단에 무료사용 선택 가능
 
-## 1.3. _configure.yml 수정
+## 1.3. \_configure.yml 수정
 
-- Defaults > values > comments:  true
+- Defaults > values > comments: true
 
 - comments 항목의 세부 내용 편집
 
@@ -48,4 +50,3 @@ typora-root-url: ../
 # 2. Google Analytics 추가하기
 
 - 개략적인 가이드는 링크 참조(https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics)
-
