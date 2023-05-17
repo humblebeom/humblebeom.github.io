@@ -5,6 +5,10 @@ Categories: blog
 Tag: [blog, Jekyll, search engine, 검색엔진, google, naver]
 toc: True
 typora-root-url: ../
+author_profile: false
+sidebar:
+  nav: "docs"
+search: false
 ---
 
 # 1. Google 검색엔진에 블로그 등록하기
@@ -12,7 +16,7 @@ typora-root-url: ../
 ## 1-1. Google Search Console 웹페이지 접속
 
 - 검색하거나 mmistakes의 링크를 따라 가면 된다.
-  - https://mmistakes.github.io/minimal-mistakes/docs/configuration/#google-search-console 
+  - https://mmistakes.github.io/minimal-mistakes/docs/configuration/#google-search-console
 
 ## 1-2. 콘솔 페이지에서 블로그 URL Prefix 등록
 
@@ -41,5 +45,8 @@ typora-root-url: ../
 
 - HTML 메타태그를 사용한 인증방식 사용
 
-## 2-3. Sitemap 등록
+## 2-3. 요청 > Sitemap 제출
 
+## 2-4. 검증 > robot.txt > 수집요청
+
+## 2-5. 웹페이지 최적화

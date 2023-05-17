@@ -4,6 +4,9 @@ title: "글 목차 및 404 에러 페이지 구현하기"
 Categories: blog
 Tag: [blog, Jekyll, toc]
 toc: True
+author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 # 1. 글 목차(toc) 구현
