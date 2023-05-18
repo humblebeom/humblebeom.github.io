@@ -8,7 +8,7 @@ typora-root-url: ../
 author_profile: false
 sidebar:
   nav: "docs"
-search: false
+search: true
 ---
 
 # 1. Google 검색엔진에 블로그 등록하기
