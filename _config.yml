@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name: "HumbleBeom"
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/images/teddynote.png"
   bio: "험블범의 개발블로그 입니다"
   location: "South Korea"
   email:
@@ -121,6 +121,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/humblebeom"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@NewJeans_official"
 
 # Site Footer
 footer:
@@ -131,6 +134,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/humblebeom"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@NewJeans_official"
 
 # Reading Files
 include:
